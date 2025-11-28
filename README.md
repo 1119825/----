@@ -1,2 +1,27 @@
-# student-management
-A simple student management system for learning Java and wed development
+## 学生管理系统学习项目
+
+## 🎯 项目目标
+- **核心目标**：在3个月内，系统地掌握Java后端开发技能，并独立完成一个具备增删改查功能的学生管理系统。
+- **技术目标**：
+    - 熟练掌握 Java SE 核心语法与面向对象编程。
+    - 理解并运用 Spring Boot 框架进行项目开发。
+    - 掌握 MySQL 数据库的基本操作与 JDBC/MyBatis 的使用。
+    - 了解前后端交互的基本原理，并能使用 Postman 测试接口。
+    - 熟练使用 Git 进行版本控制。
+
+## 🛠 技术栈
+- **后端**: Java 17, Spring Boot, Maven
+- **数据库**: MySQL / SQLite
+- **工具**: Git, IntelliJ IDEA, Postman
+
+## 📅 每周计划
+- **第1-2周**: Java 基础语法与面向对象
+- **第3-4周**: 数据库与 SQL 基础
+- **第5-6周**: Spring Boot 入门与第一个 REST API
+- **第7-8周**: 实现学生信息的增删改查功能
+- **第9-12周**: 功能扩展与项目优化
+
+## ✨ 打卡规则
+- 每周日晚上更新本周学习总结与代码。
+- 每次学习至少完成一个 `commit` 并 `push` 到本仓库。
+- 遇到问题先尝试自行解决，再记录在 `ISSUES` 中。 
